@@ -13,7 +13,7 @@ AUTHOR: **GREEDYJ4CK**
 
 ## INSTALLATION
 
-Copy assets (backgrounds, tiles etc.) into your campaign data directory.
+Copy assets (backgrounds, tiles etc.) into your Foundry user data folder.
 
 ## USAGE
 Recommended scene settings:
