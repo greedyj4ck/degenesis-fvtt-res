@@ -9,7 +9,7 @@ AUTHOR: **GREEDYJ4CK**
 > Before use please read copyright disclaimer in main repository folder.
 
 ## ABOUT
-**UBM** is a pack of graphical assets, which allow Game Masters to resolve combats without creating new maps. Square grid version is avaiable now, hex version will be available later this year.
+**UBM** is a pack of graphical assets, which allow Game Masters to resolve combats without creating new maps. Square grid version is available now, hex version will be available later this year.
 
 ## INSTALLATION
 
