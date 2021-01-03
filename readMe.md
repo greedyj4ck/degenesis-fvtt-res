@@ -6,7 +6,7 @@ This repository is catalogue of fan made projects for **Degenesis®** tabletop r
 
 ## CURRENT PROJECTS
 
-[**UNIVERSAL BATTLE MAP**](UniversalBattleMap/readMe.md) - assets for creating universal combat map (for tokens and turn tracking)  
+[**UNIVERSAL BATTLE MAP**](UniversalBattleMap) - assets for creating universal combat map (for tokens and turn tracking)  
 **TOKENS CREATION PACK [W.I.P]**
 
 ## OTHER REPOSITORIES
